@@ -1,9 +1,27 @@
 *{
-    margin: 1vh;
+    margin: 0%;
 }
 
+.head{
+    background-color: rgb(243, 7, 7);
+}
 .box{
-    background-image: url(https://tse2.mm.bing.net/th/id/OIP.DLmswgn5u2nZiod0h1PBpAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3);
-    background-size: contain;
-    height: 50vh;
+    background-image: url(https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/670000/300/670380.jpg);
+    background-size: cover;
+    height: 90vh;
+    position: relative;
+}
+
+.move{
+    position: absolute;
+    background-color: aliceblue;
+    top:50px;
+
+}
+
+.popular{
+    background-image: url(https://i0.wp.com/www.carrebate.net/wp-content/uploads/2022/06/best-car-in-2022-pin-on-automotive-intrepidclassroom.jpg);
+    background-size: cover;
+    height: 80vh;
+    position: relative;
 }
