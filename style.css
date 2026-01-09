@@ -1,3 +1,9 @@
 *{
     margin: 1vh;
 }
+
+.box{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.DLmswgn5u2nZiod0h1PBpAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: contain;
+    height: 50vh;
+}
