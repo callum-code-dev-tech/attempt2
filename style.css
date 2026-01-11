@@ -1,21 +1,33 @@
 *{
     margin: 0%;
+    position: relative;
 }
 
-.head{
+
+.intro{
     background-color: rgb(243, 7, 7);
+    font-size: x-large;
+    display: flex;
+    top:0px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.links{
+    display: inline-flex;
+    gap: 25px;
 }
 .box{
     background-image: url(https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/670000/300/670380.jpg);
     background-size: cover;
     height: 90vh;
-    position: relative;
 }
 
 .move{
     position: absolute;
-    background-color: aliceblue;
-    top:50px;
+    background-color: blue;
+    top:340px;
 
 }
 
